@@ -1,60 +1,60 @@
 Top 100
 
-3D Mahjong
+3D Mahjong = Puzzle 01
 Alchemic Dungeons
-Animal Crossing
+Animal Crossing = Fazenda 02
 Asdivine Cross
-BoxBoy
-Brain Age ( 2 jogos )
-Buddyfight ( trilogia )
+BoxBoy = Fase Pensar 03
+Brain Age ( 2 jogos ) = Estudo 04
+Buddyfight ( trilogia ) = Cartas 05
 Captain Toad
-Cardfight ( trilogia )
-Donkey Kong Country Returns
+Cardfight ( trilogia ) = Cartas 06
+Donkey Kong Country Returns = Fase Boss 07
 10-
 Drancia Saga
 Etrian Mystery Dungeon
 European Conquerer
 Ever Oasis
 Fairune ( 2 Jogos )
-Fantasy Life
+Fantasy Life = Fazenda 08
 Farming Simulator 18
 Heroes of Ruin
-Maple Story
-Mario Golf Tour
+Maple Story = 2D Fase Boss RPG 09
+Mario Golf Tour = Esportes Golfe 10
 20
-Mario Kart 7
-Mario Tennis Open
-Monster Shooter
-Picross ( 4 jogos )
+Mario Kart 7 = Anime Corrida Itens 11
+Mario Tennis Open = Esporte Tenis  12
+Monster Shooter = 1 contra vários Tiro 13
+Picross ( 4 jogos )  = Picross 14
 Pokemon Alpha Sapphire ( ou Omega Rubby )
 Pokemon Shuffle
 Pokemon Mystery Dungeon 
 Pokemon Picross
-Pokemon Rumble ( Blast e World )
-Pokemon Super Mystery Dungeon
+Pokemon Rumble ( Blast e World ) = Dungeon Boss 15
+Pokemon Super Mystery Dungeon = Dungeon RPG Boss 16
 30
-Pokemon X ( ou Y )
-Project Mirai ( 1 e 2 )
-Pure Chess
+Pokemon X ( ou Y ) = Pokemon RPG 17
+Project Mirai ( 1 e 2 ) = Música 18
+Pure Chess = Xadrez 19
 Pyramids ( 1 e 2 )
 Quest of Dungeons
-Ridge Racer 3D
-RPG Maker Fes
+Ridge Racer 3D = Corrida Drift 20
+RPG Maker Fes = Criação 21
 Sonic Generations
-Super Mario Maker
-Taiko no Tatsujin ( trilogia )
+Super Mario Maker = Criação 22
+Taiko no Tatsujin ( trilogia ) = Música 23
 40
-Terraria
-Tetris ( 1 e Ultimate )
-The Legend of Zelda - Ocarina
+Terraria = 2D Vida 24
+Tetris ( 1 e Ultimate ) = Puzzle  25
+The Legend of Zelda - Ocarina = Cima RPG 26
 Urbal Trial Freestyle
 Witch & Hero ( 2 jogos )
-Yo-Kai-Watch ( trilogia )
-Yu-Gi-Oh Saikyo Card Battle
+Yo-Kai-Watch ( trilogia ) = RPG Yokai 27
+Yu-Gi-Oh Saikyo Card Battle = Cartas 28
 Yu-Gi-Oh Zexal World Duel Carnival
 48 jogos
 
-N�o curti/o : 11
+N�o curti/o : 11
 Azure Striker
 Beyblade
 Cooking Mama
@@ -78,10 +78,12 @@ Code Name: S.T.E.A.M.
 Crush 3D
 Cubic Ninja
 Detective Pikachu
-
+Digimon World
 Dillon's Rolling Western
 Disney Magical World
+Dragon Ball Fusions
 Dragon Ball Z: Extreme Butoden
+Dragon Quest
 Etrian Odyssey ( 2 jogos )
 Excave
 Final Fantasy Explorers
@@ -89,7 +91,6 @@ Fire Emblem ( 2 jogos )
 Gabrielle's Ghostly Groove 3D
 Harvest Moon ( 2 jogos )
 Inazuma Eleven 3: Team Ogre Attacks!
-
 Kid Icarus
 Kirby: Planet Robobot
 Kirby Triple Deluxe
@@ -99,8 +100,9 @@ Mario & Luigi: ( 2 jogos )
 Mario party
 Metroid
 Mighty No. 9
+Mushi Bugyou 
 Naruto Shippuden 3D: The New Era
-
+Need for Speed
 New Super Mario Bros. 2
 One Piece: Unlimited World Red
 Pac-Man and the Ghostly Adventures
@@ -111,40 +113,22 @@ Phoenix Wright: Ace Attorney Trilogy
 Pilotwings Resort
 Poochy & Yoshi's Woolly World
 Professor Layton ( 2 jogos )
-
 Puzzler World 2013
 Rayman Origins 3Ds
 Resident Evil 
 Rhythm Thief & the Emperor's Treasure
+Samurai Warrior
+Sengoku Musou
+Senran Kagura
 Shantae
-Senran Kagura Burst
+Shin Sangoku
 Shin Megami Tensei ( 2 jogos )
+Shingeki no Kyojin
 Sonic & All-Stars Racing Transformed
 Story of Seasons
 Super Smash Bros. for Nintendo 3DS (citado como parte do top 100)
-
 Tales of the Abyss
 The Legend of Zelda : A Link Between
+Toriko
 Tomodachi Life
 Zero Escape
-
-1-Detective Pikachu = F
-Digimon World = F
-Dragon Ball Fusions = F
-Dragon Quest = F
-5-Final Fantasy Explorer = F
-Fire Emblem = F
-Harvest Moon = F
-Kid Icarus = F
-Kingdom Hearts = F
-10-Mushi Bugyou = F
-Need for Speed = F
-New Super Mario = F
-One Piece Romance = F
-Persona = F
-15-Samurai Warriors = F
-Sengoku Musou = F
-Senran Kagura = F
-Shin Sangoku = F
-Shinkeki No Yuojin = F
-20-Toriko = F
